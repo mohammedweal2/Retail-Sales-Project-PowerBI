@@ -8,7 +8,6 @@ An end-to-end Power BI project that turns raw retail order data into an interact
 
 ## 📌 Table of Contents
 1. [Project Overview](#-project-overview)
-2. [Dashboard Preview](#-dashboard-preview)
 3. [Key Results](#-key-results)
 4. [Dashboard Pages](#-dashboard-pages)
 5. [Data Model](#-data-model)
@@ -33,17 +32,6 @@ An end-to-end Power BI project that turns raw retail order data into an interact
 
 ---
 
-## 🖼 Dashboard Preview
-
-> 📷 *Add your screenshots to an `images/` folder and update the paths below.*
-
-| Navigation | Time Series Analysis |
-|:--:|:--:|
-| ![Navigation](images/01_navigation.png) | ![Time Series](images/02_time_series.png) |
-
-| Customer Behavior | Product Performance |
-|:--:|:--:|
-| ![Customers](images/03_customers.png) | ![Products](images/04_products.png) |
 
 ---
 
@@ -329,8 +317,6 @@ A single calculation group that applies **average / max / min** to *any* measure
 ---
 
 ## 👤 Author
-
-**[Your Name]**
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+**Mohammed Weal Mohammed**
 
 *Feedback and suggestions are welcome!*
